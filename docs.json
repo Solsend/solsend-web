@@ -12,7 +12,8 @@
       "/another-page"
     ]
   ],
-  "logo": "/public/wordmark-logo.png",
+  "logo": "https://pbs.twimg.com/profile_images/1630943126398595078/UlL6TN_h_400x400.png",
+  "twitter": "Solsend2",
   "anchors": [
     { "title": "Homepage", "icon": "house", "link": "https://solsend.dev" },
     { "title": "Discord", "icon": "discord", "link": "https://invertase.link/discord" }

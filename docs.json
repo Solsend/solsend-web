@@ -1,8 +1,20 @@
 {
-    "name": "docs.page",
-    "theme": "#36B9B9",
-    "sidebar": [
-      ["Home", "/"],
-      ["Another Page", "/another-page"],
+  "name": "Solsend",
+  "description": "Solsend is a decentralized real-time notification protcol built on Solana to facilitate exchange of data between users, dApps and wallets.",
+  "theme": "#36B9B9",
+  "sidebar": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Another Page",
+      "/another-page"
     ]
-  }
+  ],
+  "logo": "/public/wordmark-logo.png",
+  "anchors": [
+    { "title": "Homepage", "icon": "house", "link": "https://solsend.dev" },
+    { "title": "Discord", "icon": "discord", "link": "https://invertase.link/discord" }
+  ]
+}

@@ -9,7 +9,7 @@ import Teams from '../components/Teams'
 const navigation = [
   { name: 'Team', href: '#' },
   { name: 'Features', href: '#' },
-  { name: 'Docs', href: '#' },
+  { name: 'Docs', href: 'https://docs.page/solsend/solsend-web/' },
 ]
 
 export default function Home() {
@@ -48,7 +48,7 @@ export default function Home() {
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" className="text-sm font-semibold leading-6 text-gray-50">
-              Log in <span aria-hidden="true">&rarr;</span>
+              Our Pitch Deck
             </a>
           </div>
         </nav>
@@ -91,7 +91,7 @@ export default function Home() {
                     href="#"
                     className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-7 text-gray-50 hover:bg-gray-50"
                   >
-                    Log in
+                    Our Pitch Deck
                   </a>
                 </div>
               </div>
@@ -151,7 +151,7 @@ export default function Home() {
               >
                 Get started
               </a>
-              <a href="#" className="text-sm font-semibold leading-6 text-gray-50">
+              <a href="https://docs.page/solsend/solsend-web/" target='_blank' className="text-sm font-semibold leading-6 text-gray-50">
                 Learn more <span aria-hidden="true">→</span>
               </a>
             </div>

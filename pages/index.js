@@ -130,7 +130,7 @@ export default function Home() {
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-200 ring-1 ring-gray-600 hover:ring-gray-500">
               Announcing our submission for Solana Grizzlython.{' '}
-              <a href="#" className="font-semibold text-sky-400">
+              <a href="https://twitter.com/Solsend2/status/1635295890348064768" target='_blank' className="font-semibold text-sky-400">
                 <span className="absolute inset-0" aria-hidden="true" />
                 Read more <span aria-hidden="true">&rarr;</span>
               </a>

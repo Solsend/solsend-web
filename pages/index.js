@@ -88,7 +88,8 @@ export default function Home() {
                 </div>
                 <div className="py-6">
                   <a
-                    href="#"
+                    target='_blank'
+                    href="https://pitch.com/public/b0891250-d98b-48ab-8185-0d60d9bd131b"
                     className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-7 text-gray-50 hover:bg-gray-50"
                   >
                     Our Pitch Deck

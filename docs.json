@@ -37,11 +37,6 @@
       "title": "Homepage",
       "icon": "house",
       "link": "https://solsend.dev"
-    },
-    {
-      "title": "Discord",
-      "icon": "discord",
-      "link": "https://invertase.link/discord"
     }
   ],
   "docsearch": {

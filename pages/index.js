@@ -47,7 +47,7 @@ export default function Home() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <a href="#" className="text-sm font-semibold leading-6 text-gray-50">
+            <a target='_blank' href="https://pitch.com/public/b0891250-d98b-48ab-8185-0d60d9bd131b" className="text-sm font-semibold leading-6 text-gray-50">
               Our Pitch Deck
             </a>
           </div>

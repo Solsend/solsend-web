@@ -1,1 +1,12 @@
 # Get Started
+
+### Creating Channels
+
+Creating a channel is straighforward, and requires that you understand how to create and sign transactions
+on Solana. To create a channel, a user must call a method, `init_channel` on our smart contract deployed on 
+mainnet at this public address: `5tDG8LBBBohRETNRNBrQixr1bM9WGi1eUgcA75VX8nMy`. Function signature of the method
+is given below:
+`void init_channel(readable_name: str, description: str, icon: str)`
+This method takes a PDA and requires to be signed by the creator of the channel.
+
+To see a sample implementation of creating a channel, refer [here](https://github.com/Solsend/solsend-core/blob/bb73e081c8c34595b8ce013c4c1ba15d5b20f35b/tests/solsend_core.ts#L22C2-L22C2).
